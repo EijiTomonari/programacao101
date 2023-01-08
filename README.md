@@ -2,6 +2,8 @@
 
 ## 📝 Índice
 
+1. Introdução
+
 ## ℹ️ Sobre o curso
 
 Esse curso é destinado a pessoas que desejam ingressar na área de tecnologia, mais especificamente no mundo da programação.

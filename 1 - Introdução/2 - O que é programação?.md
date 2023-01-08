@@ -20,4 +20,4 @@ A verdade é que não existe "a melhor linguagem". A melhor linguagem pra você 
 
 ## Conclusão
 
-Por fim, a programação pode ser uma atividade muito gratificante, porque permite que nós criemos coisas úteis e interessantes. Mas, pode também ser desafiadora, porque quem programa precisa resolver problemas complexos e lidar com erros e bugs no código. Mas com prática e dedicação, qualquer pessoa pode aprender a programar.
+Por fim, a programação pode ser uma atividade muito gratificante, porque permite que nós criemos coisas úteis e interessantes. Mas, pode também ser desafiadora, porque quem programa precisa resolver problemas complexos e lidar com erros no código. Mas com prática e dedicação, qualquer pessoa pode aprender a programar.

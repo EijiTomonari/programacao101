@@ -1,10 +1,11 @@
 # Programação 101: Curso de Introdução à Programação
 ## Embarque na sua Jornada de Programação! ✨🚀
-1. O que de fato é programação?
-2. Por que programação é uma habilidade com alta demanda?
-3. Qual linguagem de programação devo aprender primeiro?
-4. Como estudar programação?
-5. Do que eu preciso pra começar?
+1. O que você vai aprender
+2. O que de fato é programação?
+3. Por que programação é uma habilidade com alta demanda?
+4. Qual linguagem de programação devo aprender primeiro?
+5. Como estudar programação?
+6. Do que eu preciso pra começar?
 ## Algoritmos e Fluxogramas: Seus Primeiros Quebra-Cabeças 🧩
 1. O que são algoritmos
 2. Representando algoritmos: fluxogramas e pseudocódigo
